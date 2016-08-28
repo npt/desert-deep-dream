@@ -30,7 +30,7 @@ involves:
 
 * Downloading from http://opencv.org/downloads.html (3.0 is the version tested with)
 * Copying `build\python\2.7\x64\cv2.pyd` to `Lib\site-packages` in the Anaconda directory
-* Copying `sources\3rdparty\ffmpeg\opencv_ffmpeg_64.dll` to *a file named `opencv_ffmpeg300_64.dll`* in the root of the Anaconda directory
+* Copying `sources\3rdparty\ffmpeg\opencv_ffmpeg_64.dll` to *a file named `opencv_ffmpegNNN_64.dll`*, where NNN is the 3-digit OpenCV version with dots removed (e.g. 300 for 3.0) in the root of the Anaconda directory
 
 You'll also need neural-network models. The two models referred to in the source (BVLC GoogLeNet from the Berkeley Vision and Learning
 Center (aka "slugdog"), and Places205-GoogLeNet from MIT) are available at http://nickptar.s3.amazonaws.com/deepdream-models.zip. Extract
