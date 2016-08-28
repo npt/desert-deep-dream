@@ -3,6 +3,8 @@ Interactive DeepDream, as seen at Burning Man.
 
 http://desertdeepdreams.wordpress.com/
 
+[![Slugdog playa](http://i.imgur.com/TtaIWRPl.jpg)](http://i.imgur.com/TtaIWRP.jpg)
+
 ## About
 
 Interactive DeepDream installation. Takes a picture, and displays it iteratively made trippier.
