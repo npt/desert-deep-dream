@@ -3,7 +3,6 @@
 # itself based on the original code from Google
 # https://github.com/google/deepdream
 
-from cStringIO import StringIO
 import numpy as np
 import scipy.ndimage as nd
 import PIL.Image
