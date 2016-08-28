@@ -4,6 +4,7 @@ Interactive DeepDream, as seen at Burning Man.
 http://desertdeepdreams.wordpress.com/
 
 [![Slugdog playa](http://i.imgur.com/TtaIWRPl.jpg)](http://i.imgur.com/TtaIWRP.jpg)
+[![Spiral people](http://i.imgur.com/TFq0iFAl.jpg)](http://i.imgur.com/TFq0iFA.jpg)
 
 ## About
 
