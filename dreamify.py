@@ -1,5 +1,7 @@
 # Based on dreamify.py from image-dreamer by Dhar (Gary Arnold)
 # https://github.com/Dhar/image-dreamer
+# itself based on the original code from Google
+# https://github.com/google/deepdream
 
 from cStringIO import StringIO
 import numpy as np
