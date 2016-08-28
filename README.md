@@ -42,8 +42,8 @@ that to the directory containing the Python files.
 ## Running
 cd to the directory containing the Python files and run `python capdream.py`.
 
-Two windows will open. The intended hardware realization involves a control display (e.g. laptop screen) and a public display connected
-to the computer and configured separately.
+Two windows will open. The intended hardware platform has a control display (e.g. laptop screen) and a public display connected
+to the computer and configured as separate monitors.
 The "Inside" window is intended to stay on the control display, and the "Outside" window is intended to be moved to the public display.
 The "Outside" window will toggle between windowed and fullscreen when the F key is pressed over either window.
 Press Q over either window to quit.
